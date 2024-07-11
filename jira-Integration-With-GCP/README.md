@@ -16,7 +16,7 @@ This repository is created for integration b/w two different platform i.e. Jira 
   
   
 **This whole project work on __PROPERTIES_FILE__ all values needs to be completed**
-# Support API Constants - DONT CHANGE
+# Support API Constants - DON'T CHANGE
 1. CLOUD_SUPPORT_API_URL = https://cloudsupport.googleapis.com/v1alpha2
 2. CLOUD_SUPPORT_ATTACHMENT_URL = https://cloudsupport.googleapis.com/upload/v1/media/
 3. CLOUD_SUPPORT_SCOPE = https://www.googleapis.com/auth/cloudsupport
